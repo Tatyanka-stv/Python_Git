@@ -1,0 +1,15 @@
+side_length = float(input('Введіть довжину сторони прямокутника: '))
+side_width = float(input('Введіть  ширину сторони прямокутника: '))
+import math
+if abs(side_length)-int(abs(side_length))==0 and abs(side_width)-int(abs(side_width))==0:
+     side_length=int(side_length)
+     side_width=int(side_width)
+     if side_length <= 0 or side_width <=0:
+         print('Числа введено невірно. Числа повинні бути додатніми.')
+     else:
+         print('*' * side_length) #малюємо верхню сторону прямокутника
+         for i in range(side_width - 2):
+             print('*' + ' ' * (side_length - 2) + '*') #малюємо бокові сторони прямокутника
+         print('*' * side_length) #малюємо нижню сторону прямокутника  
+else:
+    print('Числі введено невірно. Вони є дійсними.')

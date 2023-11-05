@@ -1,0 +1,14 @@
+1,Kingston,Coleman,12
+2,Xaviell,Turner,10
+3,Kerrington,Henry,12
+4,Rafael,Lee,11
+5,Wolfgang,Watson,2.5
+6,Yisrael,Cook,11
+7,Leonardo,Sanders,8
+8,Salton,Karen,12
+9,Marcus,Powell,12
+10,Branton,Kim,5
+11,Slowtons,Kerry,10
+12,Klopotenko,Ihor,11.5
+13,Vik,Kerry,9.8
+14,Davidson,David,11.5
